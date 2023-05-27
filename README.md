@@ -1,3 +1,7 @@
 ### Bem vindo ao Site Inicial
 
-## HTML-CSS
+## Curso de HTML-CSS do CeV
+
+# Módulo 1
+
+- <a href="https://github.com/alunogmfs2/html-css">Clique aqui para acessar meu repositório do curso de html-css</a>
