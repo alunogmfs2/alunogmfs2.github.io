@@ -6,4 +6,4 @@
 
 ## Projeto-Android
 
-- <a href="alunogmfs2.github.io/projeto-android/" target="_blank">Clique aqui para acessar o meu projeto de um site explicando a história do Android</a>
+- <a href="https://alunogmfs2.github.io/projeto-android/" target="_blank">Clique aqui para acessar o meu projeto de um site explicando a história do Android</a>
