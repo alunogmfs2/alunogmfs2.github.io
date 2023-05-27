@@ -1,4 +1,4 @@
-# Bem vindo ao Site Inicial
+# Site Inicial
 
 ## Curso de HTML-CSS do CeV
 
